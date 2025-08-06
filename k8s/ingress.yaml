@@ -33,4 +33,4 @@ spec:
           service:
             name: techsolutions-service
             port:
-              number: 8080
+              number: 80
