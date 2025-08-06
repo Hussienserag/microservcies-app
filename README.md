@@ -1,15 +1,5 @@
 # Deployment of Microservices Application using Ingress Controller
 
-### by Hussien Serag
-
-- ✅ End-to-end CI/CD pipeline implementation
-- ✅ Containerization with Docker
-- ✅ Kubernetes orchestration on AWS EKS
-- ✅ Infrastructure as Code with Terraform
-- ✅ Monitoring with Prometheus & Grafana
-- ✅ GitOps with ArgoCD
-
-
 ## 🛠️ Project Overview
 
 This project demonstrates a production-grade deployment of a multi-page web application on **AWS EKS** with **Ingress Controller** using a complete **Jenkins CI/CD** pipeline.
