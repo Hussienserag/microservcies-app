@@ -7,7 +7,7 @@ COPY services.html /usr/share/nginx/html/
 COPY contact.html /usr/share/nginx/html/
 COPY styles.css /usr/share/nginx/html/
 
-# Copy custom nginx configuration
+#  Copy custom nginx configuration
 COPY nginx.conf /etc/nginx/nginx.conf
 
 # Expose port 80
